@@ -1,7 +1,7 @@
 <p>
   <b>Hi there 👋</b>
 </p>
-<p>My name is Hayoung, I'm a Front-end Engineer and based in South Korea 🇰🇷 .<br>
+<p>My name is Hayoung, I'm a Front-end Engineer based in South Korea 🇰🇷 .<br>
 I code, write and build stuff on internet 🌏.</p>
 
 <p>I'm focused on building products with JavaScript, specifically React and Vue.js.</p>
