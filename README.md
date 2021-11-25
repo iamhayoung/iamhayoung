@@ -14,6 +14,6 @@ I code, write and build stuff on internet 🌏.</p>
 
 <p>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhayoung&custom_title=My&nbsp;Language&nbsp;🖥&layout=compact&count_private=true&show_icons=true&title_color=24292E&text_color=24292E&bg_color=F5EDF0&icon_color=24292E&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhayoung&custom_title=My&nbsp;Languages&nbsp;🖥&layout=compact&count_private=true&show_icons=true&title_color=24292E&text_color=24292E&bg_color=F5EDF0&icon_color=24292E&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
 </p>
