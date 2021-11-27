@@ -14,7 +14,7 @@ I code, write and build stuff on internet 🌏.</p>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iamhayoung&count_private=true&show_icons=true&title_color=A93F55&text_color=776274&bg_color=F5EDF0&icon_color=A07178&hide_border=true" />
+    <img alt="Github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iamhayoung&count_private=true&show_icons=true&title_color=A93F55&text_color=24292E&bg_color=F5EDF0&icon_color=A93F55&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhayoung&custom_title=My&nbsp;Languages&nbsp;🖥&layout=compact&count_private=true&show_icons=true&title_color=24292E&text_color=24292E&bg_color=F5EDF0&icon_color=24292E&hide_border=true" />
