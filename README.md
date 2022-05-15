@@ -1,7 +1,7 @@
 <p>
   <b>Hi there 👋</b>
 </p>
-<p>My name is Hayoung, I'm a Frontend Developer based in Seoul, Korea 🇰🇷 .<br>
+<p>My name is Hayoung, Frontend Developer based in Seoul, Korea 🇰🇷 .<br>
 I code, write and build stuff on internet 🌏.</p>
 
 <p>I'm focused on building products with TypeScript, specifically Vue.js and React.</p>
