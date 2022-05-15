@@ -7,7 +7,13 @@ I code, write and build stuff on internet 🌏</p>
 <p>I'm focused on building products with TypeScript, specifically Vue.js and React.</p>
 
 * [My Blog](https://hayoung.life)
-* [Linkedin](https://www.linkedin.com/in/hayounggam)
+
+<a href="https://www.instagram.com/iam_hayoung_/">
+  <img align="left" alt="Hayoung's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/hayounggam/">
+  <img align="left" alt="Hayoung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com">
