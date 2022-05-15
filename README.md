@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/iam_hayoung_/" target="_blank">
-  <img align="left" alt="Hayoung's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://hayoung.life" target="_blank">
+  <img align="left" alt="Hayoung's Blog" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-safari-48.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hayounggam/" target="_blank">
-  <img align="left" alt="Hayoung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hayoung's LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-linkedin-48.svg" />
+</a>
+<a href="https://www.instagram.com/iam_hayoung_/" target="_blank">
+  <img align="left" alt="Hayoung's Instagram" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-instagram-old-48.svg" />
 </a>
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)
+<img align="center" alt="Visitor Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" />
 
 <br />
 
@@ -15,8 +18,6 @@ My name is Hayoung, Frontend Developer based in Seoul, Korea 🇰🇷<br />
 I code, write and build stuff on internet 🌏<br />
 
 I'm focused on building products with TypeScript, specifically Vue.js and React.
-
-* [My Blog](https://hayoung.life)
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,5 +28,4 @@ I'm focused on building products with TypeScript, specifically Vue.js and React.
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamhayoung&theme=gitdimmed&column=7&no-frame=true&margin-w=10
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamhayoung&theme=gitdimmed&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
