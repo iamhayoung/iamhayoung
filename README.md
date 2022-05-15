@@ -2,7 +2,7 @@
 
 ![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false")
 
-<a href="https://hayoung.life" target="_blank">
+<a href="https://iamhayoung.dev" target="_blank">
   <img align="left" alt="Hayoung's Blog" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-safari-48.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hayounggam/" target="_blank">
