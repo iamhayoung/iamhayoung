@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<p style="display: inline-block; vertical-align: middle;">
 <a href="https://hayoung.life" target="_blank">
   <img align="left" alt="Hayoung's Blog" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-safari-48.svg" />
 </a>
@@ -11,10 +10,10 @@
   <img align="left" alt="Hayoung's Instagram" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-instagram-old-48.svg" />
 </a>
 
-<img align="center" alt="Visitor Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" />
-</p>
-  
 <br />
+<br />
+
+![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false")
 
 My name is Hayoung, Frontend Developer based in Seoul, Korea 🇰🇷<br />
 I code, write and build stuff on internet 🌏<br />
@@ -31,3 +30,4 @@ I'm focused on building products with TypeScript, specifically Vue.js and React.
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamhayoung&theme=gitdimmed&column=7&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
