@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Hayoung](https://hayoung.life) 👋
+
+![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false")
 
 <a href="https://hayoung.life" target="_blank">
   <img align="left" alt="Hayoung's Blog" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-safari-48.svg" />
@@ -13,9 +15,7 @@
 <br />
 <br />
 
-![Visitor Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false")
-
-My name is Hayoung, Frontend Developer based in Seoul, Korea 🇰🇷<br />
+Frontend Developer based in Seoul, Korea 🇰🇷<br />
 I code, write and build stuff on internet 🌏<br />
 
 I'm focused on building products with TypeScript, specifically Vue.js and React.
