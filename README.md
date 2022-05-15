@@ -1,12 +1,13 @@
 <p>
   <b>Hi there 👋</b>
 </p>
-<p>My name is Hayoung, I'm a Front-end Engineer based in South Korea 🇰🇷 .<br>
+<p>My name is Hayoung, I'm a Frontend Developer based in Seoul, Korea 🇰🇷 .<br>
 I code, write and build stuff on internet 🌏.</p>
 
-<p>I'm focused on building products with JavaScript, specifically React and Vue.js.</p>
+<p>I'm focused on building products with TypeScript, specifically Vue.js and React.</p>
 
-* [My Blog](https://velog.io/@iamhayoung)
+* [My Blog](https://hayoung.life)
+* [Linkedin](https://www.linkedin.com/in/hayounggam)
 
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamhayoung%2F&count_bg=%23BB7E8C&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com">
