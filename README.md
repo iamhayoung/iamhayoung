@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/hayounggam/" target="_blank">
   <img align="left" alt="Hayoung's LinkedIn" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-linkedin-48.svg" />
 </a>
-<a href="https://www.instagram.com/iam_hayoung_/" target="_blank">
-  <img align="left" alt="Hayoung's Instagram" width="30px" src="https://raw.githubusercontent.com/iamhayoung/iamhayoung/main/assets/icons8-instagram-old-48.svg" />
-</a>
 
 <br />
 <br />
