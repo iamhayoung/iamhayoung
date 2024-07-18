@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Frontend Developer based in Seoul, Korea 🇰🇷<br />
+Frontend Developer based in Tokyo, Japan 🇯🇵<br />
 I code, write and build stuff on internet 🌏<br />
 
 I'm focused on building products with TypeScript, specifically Vue.js and React.
